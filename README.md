@@ -1,4 +1,4 @@
-# Vera Message Engine — magicpin AI Challenge
+# Vera Message Engine — AI Challenge
 
 **Team**: Bishwjit Kumar  
 **Model**: `claude-sonnet-4-6`  
